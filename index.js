@@ -64,7 +64,7 @@ const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:KANT LS\n' // criador
-            + 'ORG: PRIVATE;\n' // nome do bot
+            + 'ORG: KANT LS;\n' // nome do bot
             + 'TEL;type=CELL;type=VOICE;waid=5571982507697:+55 71 8250-7697\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '.'
